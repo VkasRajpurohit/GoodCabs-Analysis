@@ -1,19 +1,21 @@
 # *GoodCabs Analysis Project*
 
 ---
+Go to --   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkas-rajpurohit/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=YouTube&color=%23FF0000)](https://www.youtube.com/@blink_analytix)
 
 
 Project Overview
 --
----
+
+
 
 GoodCabs is a cab service company established two years ago that has gained a strong foothold in the Indian market by focusing on tier-2 cities. The company supports local drivers, enabling them to earn a sustainable living while ensuring excellent passenger service. Operating in ten tier-2 cities across India, GoodCabs aims to meet ambitious performance targets for 2024 to drive growth and improve passenger satisfaction. This project involves analyzing GoodCabs' data to deliver actionable insights to the business leads, to achieve these objectives.
 
 Objectives:
 --
----
+
 
 1. Assess Key Metrics:
 
@@ -40,13 +42,15 @@ Objectives:
         - Create an interactive dashboard showcasing key metrics.
 
 
-### [Presentation Link](https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/tree/main/Presentation)
+[Presentation Link](https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/tree/main/Presentation)
+--
 
----
+
+
 
 💻 Tech Stack:
 -
----
+
 ![SQL/MySQL](https://img.shields.io/badge/-SQL%2FMySQL-blue?logo=mysql&labelColor=ffc6ff&color=ffc6ff) 
 ![Excel](https://img.shields.io/badge/-Excel-g?logo=microsoftexcel&labelColor=2a9134&color=2a9134)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-red?style=flat&logo=microsoftpowerpoint&color=%23B7472A)
@@ -54,7 +58,7 @@ Objectives:
 
 Key Deliverables
 --
----
+
 
 -  Exploratory Analysis Report: Insights from EDA.
 -  Answers to Primary and Secondary Questions: Detailed analysis based on the provided reference documents.
@@ -64,7 +68,7 @@ Key Deliverables
 
 Folder structure
 -
----
+
 ```bash
 GoodCabsAnalysis/
 |
@@ -82,7 +86,7 @@ GoodCabsAnalysis/
 
 Analysis Workflow
 --
----
+
 
 - Understand the Data: Analyze the metadata and structure of datasets.
 - Address Primary and Secondary Questions: Answer questions from primary_and_secondary_questions.pdf using Python, SQL, or Excel.
@@ -91,8 +95,8 @@ Analysis Workflow
 - Prepare the Presentation: Summarize findings, insights, and recommendations for the business leads.
 
 Recommendations
--
----
+--
+
 - Improve passenger satisfaction through targeted feedback programs. 
 - Enhance repeat passenger rates through improved service, promotions and loyalty programs.
 - Optimize trip distribution for better cost management and efficiency. 
@@ -114,14 +118,14 @@ https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/assets/82312234/e43
 
 
 Project Outcome
--
----
+--
+
 
 By using the dashboard/reports, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
 Contributors
--
----
+--
+
 ### *Vkas Rajpurohit*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkas-rajpurohit/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=YouTube&color=%23FF0000)](https://www.youtube.com/@blink_analytix)
