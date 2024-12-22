@@ -3,7 +3,7 @@
 ---
 Go to --   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkas-rajpurohit/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=YouTube&color=%23FF0000)](https://www.youtube.com/@blink_analytix)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=YouTube&color=%23FF0000)](https://www.youtube.com/watch?v=OC6yFyG9vBo&list=PL5FeJzNqNLWy2bfhJx693K0CgaqwO0Rbj)
 
 
 Project Overview
