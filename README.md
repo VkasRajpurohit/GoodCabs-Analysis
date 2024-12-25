@@ -42,7 +42,7 @@ Objectives:
         - Create an interactive dashboard showcasing key metrics.
 
 
-[Presentation Link](https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/tree/main/Presentation)
+[Presentation Link](https://github.com/VkasRajpurohit/GoodCabs-Analysis/tree/main/Presentation)
 --
 
 
