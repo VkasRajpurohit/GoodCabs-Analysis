@@ -107,9 +107,9 @@ Recommendations
 ## Presentation Video :
 
 ---
-https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/assets/82312234/e4365077-a130-45ea-89dd-f7eb9e04e4db
+[![Watch the video](https://img.youtube.com/vi/K5v0Tw-dl_g/maxresdefault.jpg)](https://youtu.be/K5v0Tw-dl_g)
 
-
+### [Watch this video on YouTube](https://youtu.be/K5v0Tw-dl_g)
 ---
 
 
